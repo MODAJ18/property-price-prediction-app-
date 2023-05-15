@@ -8,5 +8,8 @@ scikit_learn
 scipy
 uvicorn==0.22.0
 openpyxl
+
+# ADDED for heroku
 uvloop
 httptools
+gunicorn
